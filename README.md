@@ -6,10 +6,10 @@ Across all modules, I learned how to move from foundational supervised learning 
 <br>
 Skills developed: data preprocessing, feature engineering, model selection and tuning, performance evaluation, visualization, and communicating technical findings to a business audience.<br>
 <br>
-These projects prepare me for real-world ML work by emphasizing end-to-end workflows—cleaning data, choosing appropriate algorithms, validating results, and explaining why a model is useful in a business context.<br>
+These projects prepare me for real-world ML work by emphasizing end-to-end workflows i.e. cleaning data, choosing appropriate algorithms, validating results, and explaining why a model is useful in a business context.<br>
 <br>
 AI Statement<br>
-I used Generative AI as a learning and productivity aid for these projects—for example, clarifying concepts, debugging code, reviewing documentation, and refining explanations. I remained responsible for running experiments, verifying outputs, and understanding the methods applied in each notebook.<br>
+I used Generative AI as a learning and productivity aid for these projects. For example, clarifying concepts, debugging code, reviewing documentation, and refining explanations. I remained responsible for running experiments, verifying outputs, and understanding the methods applied in each notebook.<br>
 <br>
 Projects completed in this course:<br>
 Project 1 Chapter 1: Machine Learning Review<br>
